@@ -1,0 +1,15 @@
+﻿# Maven
+target/
+.mvn/
+!mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Logs e arquivos temporários do sistema
+*.log
+Thumbs.db
+.DS_Store
